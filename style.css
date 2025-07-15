@@ -1,0 +1,10 @@
+.box{
+    width: 150px;
+    height: 160px;
+    background-color: aqua;
+}
+.about{
+    width: 245px;
+    height: 145px;
+    background-color: black;
+}
